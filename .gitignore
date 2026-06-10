@@ -1,0 +1,9 @@
+target/
+.jdk/
+.jdk17/
+jdk17/
+.idea/
+.mvn/
+*.log
+*.txt
+*.zip
