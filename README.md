@@ -44,3 +44,6 @@ README.md                            # This file
 ```
 
 Feel free to explore the code, run the tests, and evaluate the design decisions described in `QUESTIONS.md`.
+
+---
+**CI Build:** This commit triggers the GitHub Actions CI workflow.
